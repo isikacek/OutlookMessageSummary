@@ -17,4 +17,4 @@ Features:
 
 For setup download, examples and documentation visit the [project page](https://isikacek.com/projects/oms).
 
-AWK it! requires yasnippet. Licensed under MIT.
+Licensed under MIT.
